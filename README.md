@@ -1,6 +1,6 @@
 # YouTube Video Transcription
 
-This Python script allows you to transcribe the audio from YouTube videos into text. It utilizes the YouTube Data API to fetch available transcripts or, if unavailable, extracts the audio and transcribes it using Google's Speech Recognition API.
+This Python script allows you to transcribe the audio from YouTube videos into text. It utilizes the YouTube Data API to fetch available subtitles or, if unavailable, extracts the audio and transcribes it using Google's Speech Recognition API.
 
 ## Features
 
